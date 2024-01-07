@@ -6,20 +6,22 @@ Ce manuel est basé sur le cours Analyse et modélisation d'agroécosystèmes de
 
 ## Table des matières
 
-1.  [Introduction](https://essicolo.github.io/ecologie-mathematique-R/)
-2.  [La science des données avec R](https://essicolo.github.io/ecologie-mathematique-R/chapitre-intro-a-R.html)
-3.  [Organisation des données et opérations sur des tableaux](https://essicolo.github.io/ecologie-mathematique-R/chapitre-tableaux.html)
-4.  [Visualisation](https://essicolo.github.io/ecologie-mathematique-R/chapitre-visualisation.html)
-5.  [Science ouverte et reproductibilité](https://essicolo.github.io/ecologie-mathematique-R/chapitre-git.html)
-6.  [Biostatistiques](https://essicolo.github.io/ecologie-mathematique-R/chapitre-biostats.html)
-7.  [Introduction à l'analyse bayésienne en écologie](https://essicolo.github.io/ecologie-mathematique-R/chapitre-biostats-bayes.html)
-8.  [Explorer R](https://essicolo.github.io/ecologie-mathematique-R/chapitre-explorer.html)
-9.  [Association, partitionnement et ordination](https://essicolo.github.io/ecologie-mathematique-R/chapitre-ordination.html)
-10. [Détection de valeurs aberrantes et imputation de données manquantes](https://essicolo.github.io/ecologie-mathematique-R/chapitre-outliers.html)
-11. [Les séries temporelles](https://essicolo.github.io/ecologie-mathematique-R/chapitre-temps.html)
-12. [Introduction à l'autoapprentissage](https://essicolo.github.io/ecologie-mathematique-R/chapitre-ml.html)
-13. [Les données géospatiales](https://essicolo.github.io/ecologie-mathematique-R/chapitre-geo.html)
-14. [Modélisation de mécanismes écologiques](https://essicolo.github.io/ecologie-mathematique-R/chapitre-ode.html)
+1.  [Introduction](01-intro.qmd)
+2.  [La science des données avec R](02-R.qmd)
+3.  [Organisation des données et opérations sur des tableaux](03-tableaux.qmd)
+4.  [Visualisation](04-visualisation.qmd)
+5.  [Science ouverte et reproductibilité](05-github.qmd)
+6.  [Introduction à Python](06-python.qmd)
+7.  [Biostatistiques](07a-biostats.qmd)
+8.  [Introduction à l'analyse bayésienne en écologie](07b-bayes.qmd)
+9.  [Régression](08-regression.qmd)
+10. [Explorer R](09-explorer.qmd)
+11. [Association, partitionnement et ordination](10-ordination.qmd)
+12. [Détection de valeurs aberrantes et imputation de données manquantes](11-imputation.qmd)
+13. [Les séries temporelles](12-series-temporelles.qmd)
+14. [Introduction à l'autoapprentissage](13-autoapprentissage.qmd)
+15. [Les données géospatiales](14-donnees-spatiales)
+16. [Modélisation de mécanismes écologiques](15-modelisation.qmd)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://essicolo.github.io/ecologie-mathematique-R/">Analyse et modélisation d'agroécosystèmes</a> de <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/essicolo/ecologie-mathematique-R/">Serge-Étienne Parent</a> est mis à disposition selon les termes de la <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">licence Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p> 
 
